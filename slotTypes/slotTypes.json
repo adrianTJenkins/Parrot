@@ -1,0 +1,282 @@
+{
+  "metadata": {
+    "schemaVersion": "1.0",
+    "importType": "LEX",
+    "importFormat": "JSON"
+  },
+  "resource": {
+    "name": "campusLocation",
+    "version": "1.0",
+    "enumerationValues": [
+      {
+        "value": "Academy Building",
+        "synonyms": []
+      },
+      {
+        "value": "Administration Building",
+        "synonyms": []
+      },
+      {
+        "value": "Alumni House",
+        "synonyms": []
+      },
+      {
+        "value": "Armstrong Stadium",
+        "synonyms": []
+      },
+      {
+        "value": "Armstrong-Slater",
+        "synonyms": []
+      },
+      {
+        "value": "Bemis Lab",
+        "synonyms": []
+      },
+      {
+        "value": "Cafe",
+        "synonyms": []
+      },
+      {
+        "value": "Central Warehouse",
+        "synonyms": []
+      },
+      {
+        "value": "Clarke Hall",
+        "synonyms": []
+      },
+      {
+        "value": "Computer Center",
+        "synonyms": []
+      },
+      {
+        "value": "Convocation Center",
+        "synonyms": []
+      },
+      {
+        "value": "Dett Auditorium",
+        "synonyms": []
+      },
+      {
+        "value": "Dupont Hall",
+        "synonyms": []
+      },
+      {
+        "value": "Emancipation Oak",
+        "synonyms": []
+      },
+      {
+        "value": "Ethel Buckman Hall",
+        "synonyms": []
+      },
+      {
+        "value": "Eva C. Mitchell Hall",
+        "synonyms": []
+      },
+      {
+        "value": "Flemmie Kitrell Hall",
+        "synonyms": []
+      },
+      {
+        "value": "Golden City",
+        "synonyms": []
+      },
+      {
+        "value": "Graduate Physics Research Center",
+        "synonyms": []
+      },
+      {
+        "value": "Hampton University Museum",
+        "synonyms": []
+      },
+      {
+        "value": "Hampton University Naval ROTC",
+        "synonyms": []
+      },
+      {
+        "value": "Harkness Hall",
+        "synonyms": []
+      },
+      {
+        "value": "Harvey Library",
+        "synonyms": []
+      },
+      {
+        "value": "Hattie McGrew Towers & Conference Center",
+        "synonyms": []
+      },
+      {
+        "value": "Health Services",
+        "synonyms": []
+      },
+      {
+        "value": "Holland Hall",
+        "synonyms": []
+      },
+      {
+        "value": "Holly Tree Inn",
+        "synonyms": []
+      },
+      {
+        "value": "James Hall",
+        "synonyms": []
+      },
+      {
+        "value": "Kelsey Hall",
+        "synonyms": []
+      },
+      {
+        "value": "Kennedy Hall",
+        "synonyms": []
+      },
+      {
+        "value": "MLK Hall",
+        "synonyms": []
+      },
+      {
+        "value": "Marine Science",
+        "synonyms": []
+      },
+      {
+        "value": "Memorial Church",
+        "synonyms": []
+      },
+      {
+        "value": "Modulars",
+        "synonyms": []
+      },
+      {
+        "value": "Moton Hall",
+        "synonyms": []
+      },
+      {
+        "value": "Multi-Use Facility",
+        "synonyms": []
+      },
+      {
+        "value": "Neilson-Screen Tennis Stadium",
+        "synonyms": []
+      },
+      {
+        "value": "Ogden Hall",
+        "synonyms": []
+      },
+      {
+        "value": "Olin Engineering Building",
+        "synonyms": []
+      },
+      {
+        "value": "Palm Tree Caribbean Cafe",
+        "synonyms": []
+      },
+      {
+        "value": "Phenix Hall",
+        "synonyms": []
+      },
+      {
+        "value": "Pierce Hall",
+        "synonyms": []
+      },
+      {
+        "value": "Police",
+        "synonyms": []
+      },
+      {
+        "value": "School of Pharmacy Annex",
+        "synonyms": []
+      },
+      {
+        "value": "Science and Technology (S&T)",
+        "synonyms": []
+      },
+      {
+        "value": "Scripps Howard School of Journalism and Communications",
+        "synonyms": []
+      },
+      {
+        "value": "Stone Building",
+        "synonyms": []
+      },
+      {
+        "value": "Strawberry Banks",
+        "synonyms": []
+      },
+      {
+        "value": "Student Center",
+        "synonyms": []
+      },
+      {
+        "value": "Subway",
+        "synonyms": []
+      },
+      {
+        "value": "Tropical Smoothie Cafe",
+        "synonyms": []
+      },
+      {
+        "value": "Trustee House",
+        "synonyms": []
+      },
+      {
+        "value": "Turner Hall",
+        "synonyms": []
+      },
+      {
+        "value": "Twitchell Hall",
+        "synonyms": []
+      },
+      {
+        "value": "University Bookstore",
+        "synonyms": []
+      },
+      {
+        "value": "Virginia-Clevland Hall",
+        "synonyms": []
+      },
+      {
+        "value": "Visitor Lot",
+        "synonyms": []
+      },
+      {
+        "value": "W.E.B. Dubois Hall",
+        "synonyms": []
+      },
+      {
+        "value": "Wendy's",
+        "synonyms": []
+      },
+      {
+        "value": "Whipple Barn",
+        "synonyms": []
+      },
+      {
+        "value": "White Hall",
+        "synonyms": []
+      },
+      {
+        "value": "Wigwam",
+        "synonyms": []
+      },
+      {
+        "value": "Wilder Hall",
+        "synonyms": []
+      },
+      {
+        "value": "William Freeman Hall",
+        "synonyms": []
+      },
+      {
+        "value": "William O. Lawton",
+        "synonyms": []
+      },
+      {
+        "value": "Wing Zone",
+        "synonyms": []
+      },
+      {
+        "value": "Winona Hall",
+        "synonyms": []
+      }
+    ],
+    "valueSelectionStrategy": "TOP_RESOLUTION"
+  }
+}
