@@ -10,11 +10,11 @@
     "enumerationValues": [
       {
         "value": "Academy Building",
-        "synonyms": []
+        "synonyms": ["Academy"]
       },
       {
         "value": "Administration Building",
-        "synonyms": []
+        "synonyms": ["Admin", "Admin Building"]
       },
       {
         "value": "Alumni House",
@@ -22,7 +22,7 @@
       },
       {
         "value": "Armstrong Stadium",
-        "synonyms": []
+        "synonyms": ["football field", "stadium", "field"]
       },
       {
         "value": "Armstrong-Slater",
@@ -34,31 +34,31 @@
       },
       {
         "value": "Cafe",
-        "synonyms": []
+        "synonyms": ["caf", "cafeteria"]
       },
       {
         "value": "Central Warehouse",
-        "synonyms": []
+        "synonyms": ["warehouse"]
       },
       {
         "value": "Clarke Hall",
-        "synonyms": []
+        "synonyms": ["Clarke"]
       },
       {
         "value": "Computer Center",
-        "synonyms": []
+        "synonyms": ["tech center"]
       },
       {
         "value": "Convocation Center",
-        "synonyms": []
+        "synonyms": ["convo", "Convo"]
       },
       {
         "value": "Dett Auditorium",
-        "synonyms": []
+        "synonyms": ["Dett"]
       },
       {
         "value": "Dupont Hall",
-        "synonyms": []
+        "synonyms": ["Dupont"]
       },
       {
         "value": "Emancipation Oak",
@@ -66,47 +66,47 @@
       },
       {
         "value": "Ethel Buckman Hall",
-        "synonyms": []
+        "synonyms": ["Buckman", "Businees"]
       },
       {
         "value": "Eva C. Mitchell Hall",
-        "synonyms": []
+        "synonyms": ["Daycare"]
       },
       {
         "value": "Flemmie Kitrell Hall",
-        "synonyms": []
+        "synonyms": ["Kitrell", "Nursing building"]
       },
       {
         "value": "Golden City",
-        "synonyms": []
+        "synonyms": ["Chinese food", "Chinese"]
       },
       {
         "value": "Graduate Physics Research Center",
-        "synonyms": []
+        "synonyms": ["Grad Research"]
       },
       {
         "value": "Hampton University Museum",
-        "synonyms": []
+        "synonyms": ["Museum"]
       },
       {
         "value": "Hampton University Naval ROTC",
-        "synonyms": []
+        "synonyms": ["ROTC"]
       },
       {
         "value": "Harkness Hall",
-        "synonyms": []
+        "synonyms": ["Harkness"]
       },
       {
         "value": "Harvey Library",
-        "synonyms": []
+        "synonyms": ["Library"]
       },
       {
         "value": "Hattie McGrew Towers & Conference Center",
-        "synonyms": []
+        "synonyms": ["McGrew"]
       },
       {
         "value": "Health Services",
-        "synonyms": []
+        "synonyms": ["Health center"]
       },
       {
         "value": "Holland Hall",
@@ -114,23 +114,23 @@
       },
       {
         "value": "Holly Tree Inn",
-        "synonyms": []
+        "synonyms": ["Holland", "gym"]
       },
       {
         "value": "James Hall",
-        "synonyms": []
+        "synonyms": ["James"]
       },
       {
         "value": "Kelsey Hall",
-        "synonyms": []
+        "synonyms": ["Kelsey"]
       },
       {
         "value": "Kennedy Hall",
-        "synonyms": []
+        "synonyms": ["Kennedy"]
       },
       {
         "value": "MLK Hall",
-        "synonyms": []
+        "synonyms": ["MLK"]
       },
       {
         "value": "Marine Science",
@@ -138,63 +138,63 @@
       },
       {
         "value": "Memorial Church",
-        "synonyms": []
+        "synonyms": ["church"]
       },
       {
         "value": "Modulars",
-        "synonyms": []
+        "synonyms": ["mods"]
       },
       {
         "value": "Moton Hall",
-        "synonyms": []
+        "synonyms": ["Moton"]
       },
       {
         "value": "Multi-Use Facility",
-        "synonyms": []
+        "synonyms": ["MUF"]
       },
       {
         "value": "Neilson-Screen Tennis Stadium",
-        "synonyms": []
+        "synonyms": ["tennis court"]
       },
       {
         "value": "Ogden Hall",
-        "synonyms": []
+        "synonyms": ["Ogden"]
       },
       {
         "value": "Olin Engineering Building",
-        "synonyms": []
+        "synonyms": ["Olin"]
       },
       {
         "value": "Palm Tree Caribbean Cafe",
-        "synonyms": []
+        "synonyms": ["Jamaican food"]
       },
       {
         "value": "Phenix Hall",
-        "synonyms": []
+        "synonyms": ["Phenix"]
       },
       {
         "value": "Pierce Hall",
-        "synonyms": []
+        "synonyms": ["Pierce"]
       },
       {
         "value": "Police",
-        "synonyms": []
+        "synonyms": ["HUPD"]
       },
       {
         "value": "School of Pharmacy Annex",
-        "synonyms": []
+        "synonyms": ["Pharmcay annex"]
       },
       {
         "value": "Science and Technology (S&T)",
-        "synonyms": []
+        "synonyms": ["S&T"]
       },
       {
         "value": "Scripps Howard School of Journalism and Communications",
-        "synonyms": []
+        "synonyms": ["Scripps"]
       },
       {
         "value": "Stone Building",
-        "synonyms": []
+        "synonyms": ["Stone"]
       },
       {
         "value": "Strawberry Banks",
@@ -202,7 +202,7 @@
       },
       {
         "value": "Student Center",
-        "synonyms": []
+        "synonyms": ["Stu"]
       },
       {
         "value": "Subway",
@@ -210,7 +210,7 @@
       },
       {
         "value": "Tropical Smoothie Cafe",
-        "synonyms": []
+        "synonyms": ["Tropical Smoothie"]
       },
       {
         "value": "Trustee House",
@@ -218,27 +218,27 @@
       },
       {
         "value": "Turner Hall",
-        "synonyms": []
+        "synonyms": ["Turner"]
       },
       {
         "value": "Twitchell Hall",
-        "synonyms": []
+        "synonyms": ["Twitchell]
       },
       {
         "value": "University Bookstore",
-        "synonyms": []
+        "synonyms": ["bookstore"]
       },
       {
         "value": "Virginia-Clevland Hall",
-        "synonyms": []
+        "synonyms": ["VC", "VC Suites"]
       },
       {
         "value": "Visitor Lot",
-        "synonyms": []
+        "synonyms": ["parking", "parking lot"]
       },
       {
         "value": "W.E.B. Dubois Hall",
-        "synonyms": []
+        "synonyms": ["Dubois"]
       },
       {
         "value": "Wendy's",
@@ -246,11 +246,11 @@
       },
       {
         "value": "Whipple Barn",
-        "synonyms": []
+        "synonyms": ["Whipple", "registar", "financial aide]
       },
       {
         "value": "White Hall",
-        "synonyms": []
+        "synonyms": ["White"]
       },
       {
         "value": "Wigwam",
@@ -258,11 +258,11 @@
       },
       {
         "value": "Wilder Hall",
-        "synonyms": []
+        "synonyms": ["Wilder"]
       },
       {
         "value": "William Freeman Hall",
-        "synonyms": []
+        "synonyms": ["Freeman"]
       },
       {
         "value": "William O. Lawton",
@@ -274,7 +274,7 @@
       },
       {
         "value": "Winona Hall",
-        "synonyms": []
+        "synonyms": ["Winona"]
       }
     ],
     "valueSelectionStrategy": "TOP_RESOLUTION"
