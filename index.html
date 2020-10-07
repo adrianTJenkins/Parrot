@@ -1,0 +1,14 @@
+<html>
+    <head>     
+    </head>
+    <script src="https://dd8asdgc5jiy2.cloudfront.net/lex-web-ui-loader.min.js"></script>
+    <script>
+      var loaderOpts = {
+        baseUrl: 'https://dd8asdgc5jiy2.cloudfront.net/',
+        shouldLoadMinDeps: true
+      };
+      var loader = new ChatBotUiLoader.IframeLoader(loaderOpts);
+      loader.load()
+        .catch(function (error) { console.error(error); });
+    </script>
+</html>
