@@ -2,13 +2,6 @@
 
 This is a group project for my undergraduate course in Software Design and Development (CSC 404) during Fall 2020. This repository provides a few of our Lambda functions and slot types.
 
-##### Contributors
-* Shaylah Bullock
-* Leslie Jaiyesimi
-* Adrian Jenkins
-* Bryce Mccain
-* Tatyanna Sutton
-
 ### How to Access
 
 The full web page featuring Parrot can be found [here](https://dd8asdgc5jiy2.cloudfront.net/index.html).
@@ -41,3 +34,11 @@ This is the web page which hosts our chatbot, as it deploys all of our resources
 * Message Professor
   * {your issue} {your course}
   ###### Example: Absence Excuse CSC 301
+  
+  
+### Contributors
+* Shaylah Bullock
+* Leslie Jaiyesimi
+* Adrian Jenkins
+* Bryce Mccain
+* Tatyanna Sutton
