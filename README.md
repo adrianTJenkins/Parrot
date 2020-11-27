@@ -1,6 +1,6 @@
 # Parrot
 
-This is a group project for my undergraduate course in Software Design and Development (CSC 404) during Fall 2020.
+This is a group project for my undergraduate course in Software Design and Development (CSC 404) during Fall 2020. This repository provides a few of our Lambda functions.
 
 ### How to Access
 
